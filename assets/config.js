@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyA0MShqb_sn7AKNkAprJNhii-pp5nZvX5U",
-    authDomain: "social-21c03.firebaseapp.com",
-    databaseURL: "https://social-21c03.firebaseio.com",
-    projectId: "social-21c03",
-    storageBucket: "social-21c03.appspot.com",
-    messagingSenderId: "390423706322",
-    appId: "1:390423706322:web:cdcee45db3f6f4e884cb0b",
-    measurementId: "G-J5D9XXTXEP"
+    apiKey: "AIzaSyCNEgxjtW1TrOfE16oV32cVs_8VYOf0a-4",
+    authDomain: "cartoon-forever.firebaseapp.com",
+    databaseURL: "https://cartoon-forever-default-rtdb.firebaseio.com",
+    projectId: "cartoon-forever",
+    storageBucket: "cartoon-forever.appspot.com",
+    messagingSenderId: "453191027639",
+    appId: "1:453191027639:web:b3b11acd4ab3b544a1b632",
+    measurementId: "G-8CTDS1VPT1"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
